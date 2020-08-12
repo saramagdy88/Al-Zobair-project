@@ -1,0 +1,117 @@
+/*style body*/
+body{
+	background-color:#20cca4;
+}
+
+
+/*style nav*/
+nav.navbar.navbar-default {
+ padding-bottom:10px;
+ text-align: center;
+margin-bottom: 0;
+border: 0;
+border-radius: 0;
+background-color:rgba(119, 128, 130, 0.96);
+width: 100%;
+
+}
+.navbar-default .navbar-brand{
+	font-size: 40px;
+	color:#dac219;
+	font-weight:bold;
+}
+
+ .navbar-default .navbar-nav>li>a
+{
+color:#dac219;
+font-size: 22px;
+	
+}
+/* end style nav*/
+
+h1{
+	color: #176e88;
+}
+h2{
+ 
+	color: #666b6a;
+	margin:60px 0 10px 0;
+	font-weight: bold;
+}
+
+/*style stories */
+.chang {
+	height: 200px ;
+}
+.zobair .thumbnail{
+	height: 443px;
+
+}
+.zobair .btn-primary{
+	margin-top: 10px;
+}
+ .asmaa .thumbnail {
+ 	height:403px;
+}
+
+.asmaa .btn-primary{
+	margin-top: 20px;
+	}
+.asia .caption{
+	margin-top: 20px;
+}
+.asia .btn-primary{
+	margin-top: 10px; 
+}
+.sedk .thumbnail {
+	height: 433px;
+}
+
+.sedk .btn-primary{
+	margin-top: 15px;
+	}
+.hager .thumbnail{
+	height: 402px;
+}
+.fish .thumbnail{
+	height: 433px;
+}
+.fish .btn-primary{
+	margin-top: 18px; 
+}
+.asia .caption {
+	margin-top: 10px; 
+	height: 222px;
+}
+.hawas .thumbnail {
+	height: 305px;
+	padding-bottom: 10px;
+}
+.hawas h3{
+	margin-top: 0;
+}
+
+.adia .btn-primary{
+margin-top: 8px;
+}
+.sala .btn-primary{
+	margin-top: 8px;
+}
+/*style stories */
+
+
+
+/*style footer */
+.footer {
+	padding-top:50px; 
+	margin-top:0 ;
+    height: 250px;
+	background-color:rgba(79, 170, 185, 0.96);
+	text-align: center;
+	color :#3d4044;
+}
+.footer ul li {
+	list-style: none;
+	word-break: break-word;
+	display: inline;
+}
